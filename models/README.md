@@ -6,7 +6,7 @@
 *2. Cfg file <b>[yolov3.cfg]:</b> it’s the configuration file, where there are all the settings of the algorythm.* <br/>
 *3. Coco name files <b>[coco.names]:</b> contains the name of the objects that the algorythm can detect.*<br/>
 
-*<b> config file </b> and <b> coco names</b> files are already available in [git repository](https://github.com/ArupDutta/Object-Detection_Opencv-Yolo_Image/tree/master/models).* <br/>
+*<b> config file </b> and <b> coco names</b> files are already available in [git repository](https://github.com/ArupDutta/Object-Detection_Opencv-Yolo/tree/master/models).* <br/>
 *Download the weight file from [Darknet](https://pjreddie.com/darknet/yolo/) and keep it inside the models folder as shown in below picture -*
 
 <br/>
