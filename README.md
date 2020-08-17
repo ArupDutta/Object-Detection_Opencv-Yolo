@@ -1,12 +1,13 @@
+
 # Object-Detection_Opencv-Yolo
-<br/>
-
-### *The object detection model is tested on an image. We will test it on video stream soon...*
-
 <br/>
 
 Here you will learn how YOLO object detection algorithm is used to detect multimple objects and it's position in an image and video stream using opencv network.
 
+
+<p align="centre" style="width:100%;">
+  <img src="https://github.com/ArupDutta/ArupDutta/blob/master/Pics/out_gif.gif">
+</p>
 
 <p align="centre">
   <img src="https://github.com/ArupDutta/Object-Detection_Opencv-Yolo/blob/master/output/imgg2.JPG">
@@ -59,4 +60,11 @@ Like I mentioned before as well, our input can be in three forms:
 2.  Webcam Stream
 3.  Video File
 
-*Will come with the Webcamp stream and Video File code very soon*
+<br/>
+<br/>
+
+### Connect with me:
+
+<a href="https://www.taublogg.blogspot.com"><img align="left" alt="ArupDutta | TAU" width="22px" src="https://github.com/ArupDutta/ArupDutta/blob/master/www.svg" /></a>
+<a href="https://www.linkedin.com/in/arup-dutta-8a35a2106/"><img align="left" alt="ArupDutta | LinkedIn" width="22px" src="https://github.com/ArupDutta/ArupDutta/blob/master/linkedin.svg" /></a>
+<a href="https://www.instagram.com/arupdut_ta/"><img align="left" alt="ArupDutta | Instagram" width="22px" src="https://github.com/ArupDutta/ArupDutta/blob/master/instagram-sketched.svg" /></a>
